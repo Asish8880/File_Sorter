@@ -1,0 +1,23 @@
+# Environment files
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Node.js dependencies
+node_modules/
+
+# Windows system files
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# VSCode settings
+.vscode/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
